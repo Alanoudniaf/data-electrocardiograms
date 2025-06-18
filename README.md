@@ -16,14 +16,14 @@ curl https://wagon-public-datasets.s3.amazonaws.com/Machine%20Learning%20Dataset
 
 ## Exercise
 
-🎯 Your task is to flag heartbeats that are at risk of cardiovascular diseases. You will:
+🎯 My goal is to flag heartbeats that are at risk of cardiovascular diseases. You will:
 
 - Investigate the class balance of the dataset
 - Evaluate and compare two models: KNN and LogisticRegression
 - Use Confusion matrix and Classification report to get insight on the models' performances
 - Choose the optimal model based on the appropriate metric
 
-To start the exercise, open `Electrocardiograms.ipynb` in `jupyter notebook` and follow the instructions.
+To start the project, open `Electrocardiograms.ipynb` in `jupyter notebook` and follow the instructions.
 
-🚀 Your turn!
+🚀 Let's gooo!
 
